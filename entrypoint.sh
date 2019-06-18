@@ -7,6 +7,8 @@
 
 VER=4.19.1
 UUID=98d31d17-53da-4198-b30b-61b1cee07317
+
+
 cd /v2ray
 #echo -e "$CONFIG_JSON" > config.json
 ls -l
